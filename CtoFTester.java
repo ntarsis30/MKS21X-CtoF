@@ -11,7 +11,7 @@ public class CtoFTester{
         return (9.0/5)*cels + 32;
     }
     public static double fahrenheitToCelsius(double fahren){
-        return (9.0/5)*(fahren - 32);
+        return (5.0/9)*(fahren - 32);
     }
 
 
